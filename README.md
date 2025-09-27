@@ -1,21 +1,23 @@
-#🍪 Chocolate Chip Cookies
+# 🍪 Chocolate Chip Cookies
 
-This is my second web project built with HTML.
-It’s a simple webpage where I practiced using:
+This is a **simple webpage** built with HTML.  
+It’s a fun project where I practiced using:
 
-Headings
+- Headings  
+- Paragraphs  
+- Images  
+- Lists (ordered and unordered)  
+- Basic HTML structure  
 
-Paragraphs
+---
 
-Lists (<ul> and <ol>)
+## 🌍 Live Demo
+👉 [Chocolate Chip Cookies on GitHub Pages](https://aljazikb.github.io/ChocolateChipCookies/)
 
-Images
+---
 
-Semantic structure of HTML
+## 📌 About
+I made this project as part of my **HTML learning journey**.  
+The goal was to practice structuring a recipe webpage and show how to use semantic tags in HTML.  
 
-##🌍 Live Demo
-👉 Chocolate Chip Cookies on GitHub Pages
-
-📌 About
-I made this project to practice the basics of HTML and build a fun, structured webpage about baking cookies.
-The goal was to create a readable recipe page that includes ingredients, instructions, and an image of the cookies.
+---
