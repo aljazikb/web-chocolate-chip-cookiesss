@@ -12,7 +12,7 @@ It’s a fun project where I practiced using:
 ---
 
 ## 🌍 Live Demo
-👉 [Chocolate Chip Cookies on GitHub Pages](https://aljazikb.github.io/ChocolateChipCookies/)
+👉 [Chocolate Chip Cookies on GitHub Pages]( https://aljazikb.github.io/web-chocolate-chip-cookiesss/)
 
 ---
 
@@ -21,3 +21,4 @@ I made this project as part of my **HTML learning journey**.
 The goal was to practice structuring a recipe webpage and show how to use semantic tags in HTML.  
 
 ---
+
